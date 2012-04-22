@@ -1,0 +1,35 @@
+for i in {0..9}; do ./checkers random quincy1 1.0; i=$(($i+1)); done | grep -i game | sort | uniq -c
+
+PLAYER 1 EVALUATION
+-------------------
+The row is for player1, the column for player2.
+Each cell contains the win percentage for player1.
+
+
+
+     win %  | random | depth | quincy1 | quincy2 | quincy3 |
+    --------+--------+-------+---------+---------+---------+
+    random  |        |       |         |         |         |    Should all be 0
+    depth   |        |       |         |         |         |
+    quincy1 |        |       |         |         |         |
+    quincy2 |        |       |         |         |         |
+    quincy3 |        |       |         |         |         |
+    --------+--------+-------+---------+---------+---------+
+
+
+PLAYER 2 EVALUATION
+-------------------
+The row is for player2, the column for player1.
+Each cell contains the win percentage for player2.
+
+
+
+     win %  | random | depth | quincy1 | quincy2 | quincy3 |
+    --------+--------+-------+---------+---------+---------+
+    random  |        |       |         |         |         |
+    depth   |        |       |         |         |         |
+    quincy1 |        |       |         |         |         |
+    quincy2 |        |       |         |         |         |
+    quincy3 |        |       |         |         |         |
+    --------+--------+-------+---------+---------+---------+
+

@@ -1,0 +1,455 @@
+              PLAYER     POINTS     DEATHS
+             qbowers        316          4
+                  p1         16         79
+
+              PLAYER     POINTS     DEATHS
+             qbowers        252         36
+                  p2        144         63
+
+              PLAYER     POINTS     DEATHS
+                  p3         44          1
+             qbowers          4         11
+
+              PLAYER     POINTS     DEATHS
+             qbowers        304          4
+                  p4         16         76
+
+              PLAYER     POINTS     DEATHS
+             qbowers        392          2
+                  p5          8         98
+
+              PLAYER     POINTS     DEATHS
+                  p6        324         17
+             qbowers         68         81
+
+              PLAYER     POINTS     DEATHS
+             qbowers        300          1
+                  p7          4         75
+
+              PLAYER     POINTS     DEATHS
+                  p8        208         46
+             qbowers        184         52
+
+              PLAYER     POINTS     DEATHS
+             qbowers        388          6
+                  p9         24         97
+
+              PLAYER     POINTS     DEATHS
+             qbowers        236         41
+                 p10        164         59
+
+              PLAYER     POINTS     DEATHS
+p12 bot by Jeff Cope        256         22
+             qbowers         88         64
+
+
+
+              PLAYER     POINTS     DEATHS
+             qbowers        320          0
+                  p1          0         80
+
+              PLAYER     POINTS     DEATHS
+             qbowers        276         30
+                  p2        120         69
+
+              PLAYER     POINTS     DEATHS
+             qbowers         16          3
+                  p3         12          4
+
+              PLAYER     POINTS     DEATHS
+             qbowers        288          2
+                  p4          8         72
+
+              PLAYER     POINTS     DEATHS
+             qbowers        396          3
+                  p5         12         99
+
+              PLAYER     POINTS     DEATHS
+                  p6        344         11
+             qbowers         44         86
+
+              PLAYER     POINTS     DEATHS
+             qbowers        320          3
+                  p7         12         80
+
+              PLAYER     POINTS     DEATHS
+             qbowers        252         37
+                  p8        148         63
+
+              PLAYER     POINTS     DEATHS
+             qbowers        396          1
+                  p9          4         99
+
+              PLAYER     POINTS     DEATHS
+             qbowers        348         13
+                 p10         52         87
+
+              PLAYER     POINTS     DEATHS
+             qbowers        208         32
+p12 bot by Jeff Cope        128         52
+
+
+Dodging bullets only within 16 pixels:
+100 games against plist
+
+                      PLAYER     POINTS     DEATHS
+                         p8:        940         74
+       p12 bot by Jeff Cope:        920         79
+                         p6:        756         56
+                        p10:        508         93
+                         p2:        388         99
+                         p3:        224         98
+                         p9:        176        100
+                    qbowers:        124        100
+                         p7:        108        100
+                         p1:        104         99
+                         p4:        100         99
+                         p5:         60        100
+
+Dodging bullets only within 22 pixels:
+100 games against plist
+
+                      PLAYER     POINTS     DEATHS
+       p12 bot by Jeff Cope:        868         84
+                         p6:        856         51
+                         p8:        840         71
+                        p10:        488         87
+                         p2:        332        100
+                    qbowers:        268         98
+                         p3:        264         98
+                         p9:        148        100
+                         p4:        120         99
+                         p1:         84        100
+                         p7:         64        100
+                         p5:         48        100
+
+
+Dodging bullets only within 28 pixels:
+100 games against plist
+
+                      PLAYER     POINTS     DEATHS
+       p12 bot by Jeff Cope:        844         88
+                         p6:        828         46
+                         p8:        588         87
+                        p10:        536         82
+                         p2:        388         99
+                    qbowers:        312         94
+                         p3:        252         96
+                         p9:        140        100
+                         p5:        128        100
+                         p7:        128         98
+                         p1:        128        100
+                         p4:        112         99
+
+100 games against plist
+                      PLAYER     POINTS     DEATHS
+       p12 bot by Jeff Cope:        904         87
+                         p8:        844         73
+                         p6:        792         56
+                        p10:        488         91
+                         p2:        332        100
+                    qbowers:        288         96
+                         p9:        208         98
+                         p3:        176         97
+                         p7:        108        100
+                         p4:        104         99
+                         p1:         92         99
+                         p5:         80        100
+
+Dodging bullets using diagonal escape vectors:
+100 games against plist
+
+                      PLAYER     POINTS     DEATHS
+                         p8:        888         75
+       p12 bot by Jeff Cope:        796         85
+                         p6:        788         55
+                        p10:        428         89
+                    qbowers:        380         95
+                         p2:        376        100
+                         p3:        216         96
+                         p9:        156        100
+                         p4:        124         99
+                         p7:         96        100
+                         p5:         88        100
+                         p1:         76        100
+
+                      PLAYER     POINTS     DEATHS
+                         p8:        832         78
+       p12 bot by Jeff Cope:        764         86
+                         p6:        680         55
+                        p10:        584         83
+                         p2:        428         96
+                    qbowers:        300         96
+                         p3:        232         99
+                         p9:        168        100
+                         p1:        124         98
+                         p4:        108         98
+                         p5:         80         99
+                         p7:         76        100
+
+
+Always attacking closest bot:
+100 games against plist
+
+                      PLAYER     POINTS     DEATHS
+                         p8:        808         81
+                         p6:        780         52
+       p12 bot by Jeff Cope:        760         87
+                        p10:        512         88
+                         p2:        392         99
+                    qbowers:        388         95
+                         p3:        224         97
+                         p9:        164        100
+                         p1:        112         98
+                         p4:         96        100
+                         p7:         92        100
+                         p5:         84         97
+
+
+Increased wall buffer to 100:
+
+                      PLAYER     POINTS     DEATHS
+        p12 bot by Jeff Cope        824         81
+                          p8        756         82
+                          p6        740         48
+                     qbowers        496         94
+                         p10        492         92
+                          p2        432        100
+                          p3        224         98
+                          p9        124        100
+                          p7        104        100
+                          p1         88        100
+                          p4         72         98
+                          p5         60        100
+
+                      PLAYER     POINTS     DEATHS
+        p12 bot by Jeff Cope        816         85
+                          p8        772         84
+                          p6        732         48
+                     qbowers        480         86
+                          p2        408        100
+                         p10        392         92
+                          p3        272         99
+                          p1        144         99
+                          p9        120        100
+                          p4        104         99
+                          p7         92         99
+                          p5         68        100
+
+                      PLAYER     POINTS     DEATHS
+        p12 bot by Jeff Cope        840         82
+                          p8        780         84
+                          p6        772         49
+                         p10        528         93
+                     qbowers        436         94
+                          p2        312         99
+                          p3        260         98
+                          p9        152        100
+                          p1        120        100
+                          p7         88        100
+                          p4         72         99
+                          p5         64         99
+
+
+Move away from walls before moving toward enemies
+
+                      PLAYER     POINTS     DEATHS
+        p12 bot by Jeff Cope        792         84
+                          p6        788         49
+                          p8        768         78
+                     qbowers        436         90
+                          p2        432         99
+                         p10        412         92
+                          p3        236        100
+                          p9        180        100
+                          p5        104        100
+                          p4         96         98
+                          p1         80        100
+                          p7         72        100
+
+                      PLAYER     POINTS     DEATHS
+                          p6        828         58
+                          p8        808         78
+        p12 bot by Jeff Cope        780         85
+                     qbowers        456         89
+                         p10        432         89
+                          p2        384         99
+                          p3        196         98
+                          p9        160        100
+                          p1        108         97
+                          p5         92        100
+                          p4         76         97
+                          p7         68         97
+
+                      PLAYER     POINTS     DEATHS
+        p12 bot by Jeff Cope        876         82
+                          p8        800         76
+                          p6        716         54
+                         p10        460         91
+                     qbowers        408         91
+                          p2        376        100
+                          p3        200         99
+                          p9        148         99
+                          p7        116         99
+                          p1        108         99
+                          p4         84         99
+                          p5         76         99
+
+NOT ACCEPTING THIS CHANGE
+
+Checking team performance:
+
+                      PLAYER     POINTS     DEATHS
+        p12 bot by Jeff Cope       2588        277
+                          p8       2364        282
+                          p6       2188        233
+                         p10       1428        296
+                     qbowers       1380        292
+                          p2       1360        300
+                          p3        836        295
+                          p9        776        300
+                          p1        368        300
+                          p4        300        300
+                          p5        260        300
+                          p7        236        300
+
+
+Bullet danger zone increased to 80
+
+                      PLAYER     POINTS     DEATHS
+                          p8        864         81
+        p12 bot by Jeff Cope        828         79
+                          p6        796         54
+                         p10        468         88
+                          p2        416         99
+                     qbowers        320         96
+                          p3        184         99
+                          p9        140        100
+                          p4        128        100
+                          p7        104         99
+                          p5         80        100
+                          p1         80        100
+
+NOT ACCEPTING THIS CHANGE
+
+
+Make a random move if doing nothing else.
+
+                      PLAYER     POINTS     DEATHS
+        p12 bot by Jeff Cope        812         81
+                          p6        784         56
+                          p8        728         79
+                         p10        496         95
+                     qbowers        488         95
+                          p2        368        100
+                          p3        264         95
+                          p9        136        100
+                          p7        104        100
+                          p1        104         99
+                          p4         88        100
+                          p5         84         99
+
+                      PLAYER     POINTS     DEATHS
+                          p6        844         56
+        p12 bot by Jeff Cope        748         79
+                          p8        740         77
+                         p10        532         92
+                     qbowers        448         98
+                          p2        296         99
+                          p3        216         97
+                          p9        172         99
+                          p1        152        100
+                          p7        100        100
+                          p4        100         97
+                          p5         76        100
+
+Seems to hurt me, NOT ACEPTING THIS CHANGE
+
+
+Fixed bug in dodge code, now it's less dodgy.
+
+                      PLAYER     POINTS     DEATHS
+                          p6        880         47
+                          p8        772         81
+        p12 bot by Jeff Cope        684         92
+                     qbowers        556         90
+                         p10        512         90
+                          p2        280        100
+                          p3        192         97
+                          p9        160        100
+                          p4        144        100
+                          p5         80        100
+                          p1         72        100
+                          p7         68         98
+
+                      PLAYER     POINTS     DEATHS
+                          p6        768         48
+                          p8        760         77
+        p12 bot by Jeff Cope        740         89
+                     qbowers        612         90
+                         p10        412         93
+                          p2        372        100
+                          p3        236         98
+                          p9        116        100
+                          p1        104         99
+                          p4        104         98
+                          p7         88         98
+                          p5         84         99
+
+                      PLAYER     POINTS     DEATHS
+                          p6        848         55
+        p12 bot by Jeff Cope        772         76
+                          p8        752         86
+                     qbowers        532         89
+                         p10        476         92
+                          p2        332        100
+                          p3        184         97
+                          p9        148         99
+                          p4        108        100
+                          p1        104         99
+                          p5         68        100
+                          p7         68         98
+
+                      PLAYER     POINTS     DEATHS
+        p12 bot by Jeff Cope        856         84
+                          p8        748         80
+                          p6        744         56
+                     qbowers        612         80
+                          p2        400        100
+                         p10        340         96
+                          p3        180         96
+                          p9        140        100
+                          p1        116        100
+                          p4        116        100
+                          p5         80        100
+                          p7         68         99
+
+                      PLAYER     POINTS     DEATHS
+        p12 bot by Jeff Cope        784         88
+                          p6        748         59
+                          p8        720         84
+                     qbowers        636         75
+                         p10        532         89
+                          p2        320        100
+                          p3        244         94
+                          p9        120        100
+                          p4         88         99
+                          p1         72        100
+                          p5         56        100
+                          p7         52         99
+
+3 player teams, 20 games
+
+                      PLAYER     POINTS     DEATHS
+                     qbowers        516         49
+        p12 bot by Jeff Cope        432         58
+                          p8        400         58
+                          p6        400         48
+                         p10        268         60
+                          p2        228         60
+                          p9        172         60
+                          p3        144         60
+                          p1         96         60
+                          p4         68         60
+                          p7         48         60
+                          p5         24         60

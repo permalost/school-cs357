@@ -1,0 +1,6 @@
+2
+10
+item1 5 - item3
+item2 5 - item4
+item3 5
+item4 5 - item1 item3
